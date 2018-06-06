@@ -1,0 +1,10 @@
+c:\users\admin\source\repos\Procesador\Procesador\bin\Debug\Procesador.exe.config
+c:\users\admin\source\repos\Procesador\Procesador\bin\Debug\Procesador.exe
+c:\users\admin\source\repos\Procesador\Procesador\bin\Debug\Procesador.pdb
+c:\users\admin\source\repos\Procesador\Procesador\obj\Debug\Procesador.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Procesador\Procesador\obj\Debug\Procesador.Form1.resources
+c:\users\admin\source\repos\Procesador\Procesador\obj\Debug\Procesador.Properties.Resources.resources
+c:\users\admin\source\repos\Procesador\Procesador\obj\Debug\Procesador.csproj.GenerateResource.Cache
+c:\users\admin\source\repos\Procesador\Procesador\obj\Debug\Procesador.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Procesador\Procesador\obj\Debug\Procesador.exe
+c:\users\admin\source\repos\Procesador\Procesador\obj\Debug\Procesador.pdb
